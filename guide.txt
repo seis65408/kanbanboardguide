@@ -1,0 +1,6 @@
+create new repo
+go to issue tab and create issues
+go back to home ->project-> new project with issue repo and project name->board
+
+go to + new view-> table-> then add priority(single select(field type) )and story points (number(field type) fields ->in this view only
+ go to setting symbol view select--> select board 
